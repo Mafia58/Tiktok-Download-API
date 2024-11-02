@@ -7,7 +7,7 @@ This tool allows you to easily download TikTok videos, both with and without wat
 To use the API, simply make a GET request with the following query string parameter:
 
 <i>Request Method: GET
-Query String Parameter: url=<tiktok video link></i>
+Query String Parameter: url={tiktok video link}</i>
 
 You can try it out here: https://tiktok-dl.akalankanime11.workers.dev 🛠️
 
