@@ -14,4 +14,4 @@ Query String Parameter: url={tiktok video link}</i>
 You can try it out here: https://tiktok-dl.akalankanime11.workers.dev 🛠️
 
 Just format your request like this: https://tiktok-dl.akalankanime11.workers.dev/?url={tiktok_video_link}
-🎉 Happy downloading!
+🎉 Happy downloading and give a start!
